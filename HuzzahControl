@@ -28,8 +28,8 @@
 #define LCD_PIN           V9
 
 // WiFi parameters
-const char WIFI_SSID[] = "BEFU7";
-const char WIFI_PSK[] = "F33lsLik3I\'mWearing";
+const char WIFI_SSID[] = "SSID";
+const char WIFI_PSK[] = "Nothi\'nToSeeHere";
 const char BLYNK_AUTH[] = "a505e357538c40ec8a1f9600b7394b1a";
 
 // Other constants
